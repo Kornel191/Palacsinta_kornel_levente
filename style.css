@@ -15,3 +15,9 @@ h2{
     text-transform: uppercase;
    
 }
+
+img{
+    max-width: 450px;
+    border:2px solid rgb(red, green, blue);
+    border-radius: 10%;
+}
